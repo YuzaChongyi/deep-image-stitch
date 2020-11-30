@@ -1,0 +1,13 @@
+TrainDataset:
+  img_dir: /Users/chongyi/Dataset/imgs
+
+ValDataset:
+  img_dir: /Users/chongyi/Dataset/imgs
+
+Train:
+  resume: False
+  resume_path: path_to_resume
+  checkpoint_path: ./checkpoints
+  epochs: 10
+
+
